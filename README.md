@@ -1,2 +1,2 @@
 # Personal Site
-## Custom post the add projects to webpage.
+## Custom post to add projects to webpage.
